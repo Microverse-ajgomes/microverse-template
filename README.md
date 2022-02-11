@@ -1,66 +1,89 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![Image](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# <project-name> project
 
-> Description the project.
+> This project is .
 
+> [Here is a screenshot](https://projects.microverse.datanet-pt.net/.../app_screenshot.png)
+
+<br/>
 
 ## Built With
 
 - Major languages
+    - HTML
+    - CSS
 - Frameworks
+    - None
 - Technologies used
+    - None
 
-## Live Demo (if available)
+<br/>
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo
 
+[Live Demo Link](https://projects.microverse.datanet-pt.net/.../)
+
+<br/>
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+> This project can be run either from a local copy of the files (in it's directory structure) or by accessing it through a WEB server if it is installed as content for one.
 
+ 
+> To get a local copy up and running follow these simple example steps.
 
-To get a local copy up and running follow these simple example steps.
+<br/>
 
 ### Prerequisites
 
+> **NONE**
+
 ### Setup
+
+> **NONE**
 
 ### Install
 
+> ***git clone https://github.com/Microverse-ajgomes/<project-name>.git***
+
 ### Usage
+
+> **Just access the index.html file through the browser or access the webserver where it has been deployed through the browser**
 
 ### Run tests
 
+> **Not applyable**
+
 ### Deployment
 
+> **Not applyable**
 
+<br/>
 
 ## Authors
 
-👤 **Author1**
+&#x1f464; **Ant&oacute;nio Jos&eacute; Gomes**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ajose1024](https://github.com/ajose1024)
+- Twitter: [@ajose_1024](https://twitter.com/ajose_1024)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ajffg1024)
 
-👤 **Author2**
+<br/>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+## &#x1f91d; Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page<!--[issues page](../../issues/)-->.
+
+<br/>
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+> Give a &#x2B50; if you like this project!
+
+<br/>
 
 ## Acknowledgments
 
@@ -68,6 +91,8 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+<br/>
 
-This project is [MIT](./MIT.md) licensed.
+## &#x1F4DD; License
+
+This project is [MIT](https://projects.microverse.datanet-pt.net/.../MIT.html) licensed.
